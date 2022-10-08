@@ -1,2 +1,4 @@
 #!bin/bash
-pwd for printing directory
+pwd 
+for printing 
+
