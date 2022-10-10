@@ -1,0 +1,16 @@
+total 40
+drwxr-xr-x 2 root root 251 Oct 10 14:11 .
+drwxr-xr-x 7 root root 132 Oct 10 03:25 ..
+-rwxr--r-- 1 root root  21 Oct  8 10:32 0-iam_betty
+-rwxr--r-- 1 root root  19 Oct  8 10:43 1-who_am_i
+-rwxr--r-- 1 root root  19 Oct  8 10:56 2-groups
+-rwxr--r-- 1 root root  30 Oct  8 11:17 3-new_owner
+-rwxr--r-- 1 root root  24 Oct  8 11:39 4-empty
+-rwxr--r-- 1 root root  28 Oct  8 11:47 5-execute
+-rwxr--r-- 1 root root  28 Oct  9 00:06 6-multiple_permissions
+-rwxr--r-- 1 root root  28 Oct  9 00:01 7-everybody
+-rwxr--r-- 1 root root  36 Oct 10 14:11 8-cwd_state
+-rwxrwxrwx 1 root root   0 Oct  8 11:44 hello
+-rw-r--r-- 1 root root   0 Oct 10 14:09 ls_cw_content
+-rw-r--r-- 1 root root   0 Oct 10 13:36 ls_cwd_content
+-rw-r--r-- 1 root root 299 Oct  8 11:55 README.md
